@@ -44,6 +44,3 @@ Run the tool
 ```bash
 ./autorecon --flags ...
 ```
-
-# Dependencies
-Autorecon
