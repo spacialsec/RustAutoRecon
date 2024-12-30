@@ -30,8 +30,7 @@ Performance
 
 Up to 10x faster than Python-based alternatives
 Memory usage under 50MB for most scans
-Efficient handling of large target networks
-
+Efficient handling of large target networks 
 ![image](https://github.com/user-attachments/assets/3d070f0c-5af7-49ae-84ef-4fbdfd7417e4)
 
 
