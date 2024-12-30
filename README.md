@@ -1,7 +1,11 @@
 # RustAutoRecon
 A blazing fast implementation of AutoRecon in Rust.  A multi-threaded network reconnaissance tool which performs automated enumeration of services.  Works up to 20% compared to the python implementation.
 
-![image](https://github.com/user-attachments/assets/f95d57e9-adf6-43c8-a14b-962147f4c326)
+
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/85abc3d5-60bc-4a96-bd7b-f31a249c8aef" alt="RustAutoRecon" width="500px" height=auto>
+  <br>
+</h1>
 
 
 <p align="center">
